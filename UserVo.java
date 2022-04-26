@@ -14,6 +14,9 @@ public class UserVo {
 /**
 	进行了代码修改
 */
+/*
+	冲突演示
+*/
     private String id;
 
     private String nickname;
