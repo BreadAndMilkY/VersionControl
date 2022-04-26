@@ -6,7 +6,7 @@ import lombok.Data;
  * @Auther：Z
  * @Date：2022/2/18 - 19:20
  * @Description：com.bread.blog.vo
- * @Vsersion：1.0
+ * @Vsersion：1.0 
  */
 @Data
 public class UserVo {
