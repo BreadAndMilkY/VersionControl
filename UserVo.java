@@ -17,6 +17,9 @@ public class UserVo {
 /*
  * 在此次提交之前其他用户已提交
  */
+/*
+	冲突演示
+*/
     private String id;
 
     private String nickname;
